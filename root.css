@@ -1,0 +1,30 @@
+:root
+{
+--background-color:#ffffff;
+--font-primary-color:#000000;
+--font-change-color:#F48E28;
+}
+
+*{
+margin: 0;
+padding: 0;
+font-family: "Antonio",sans-serif;
+font-weight: 400;
+color: var(--font-primary-color);
+}
+body{
+    background-color: var(--background-color);
+   
+
+}
+.header-container{
+    padding: 0px 70px;
+}
+main{
+    padding: 0px 70px;
+}
+.footer-full{
+    background: #e7e7ee;
+    padding: 40px 70px;
+
+}
